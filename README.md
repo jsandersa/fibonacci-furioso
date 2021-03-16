@@ -24,7 +24,7 @@ En linux:
     
 y para invocar el servicio en otro terminal de la misma maquina ejecutar u ocupar un navegador gráfico:
 
-    curl http://localhost:8080/fibonacci/calculate/N
+    curl http://localhost:8080/api/v1/fibonacci/calculate/N
 
 En windows para levantar el servicio:
     
